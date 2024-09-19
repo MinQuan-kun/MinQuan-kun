@@ -28,4 +28,4 @@
 - EMAIL: ikkun2705@gmail.com
 - YOTUBE: Ikkun
 
-[website]: [https://www.youtube.com/channel/UC9L5_YMFz8JfBeQtUic8-3A](https://www.youtube.com/@ikkun4029)
+[website]: https://www.youtube.com/@ikkun4029
