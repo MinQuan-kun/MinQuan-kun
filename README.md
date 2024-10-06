@@ -3,10 +3,10 @@
 
 - 🔭 Passion in something ... (secret😊)
 - 💪 2025 Goals: Make a game
-- ⭐: Reading, listening, walking, running, playing game... and blade wind😅
+- ⭐: Reading, listening, walking, running, playing game...😅
 
 ### 📫 Contact me via:
 - EMAIL: ikkun2705@gmail.com
-- YOTUBE: Ikkun
+- YOUTUBE: Ikkun
 
 [website]: www.youtube.com/@ikkun4029
