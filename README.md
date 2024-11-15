@@ -9,4 +9,4 @@
 - EMAIL: ikkun2705@gmail.com
 - YOUTUBE: Ikkun
 
-[website]:[ www.youtube.com/@ikkun4029](https://www.youtube.com/@ikkun4029)
+[website](https://www.youtube.com/@ikkun4029)
