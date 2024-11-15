@@ -6,5 +6,5 @@
 - ⭐: Reading, listening, walking, running, playing game...😅
 
 ### 📫 Contact me via:
-- EMAIL: ikkun2705@gmail.com
-- [YOUTUBE](https://www.youtube.com/@ikkun4029)
+- [Facebook](https://www.facebook.com/profile.php?id=100054549385715)
+- [Youtube](https://www.youtube.com/@ikkun4029)
