@@ -6,5 +6,5 @@
 - ⭐: Reading, listening, walking, running, playing game...😅
 
 ### 📫 Contact me via:
-- [Facebook]([https://www.facebook.com/profile.php?id=100054549385715](https://www.facebook.com/quan.nguyenhuu.50364))
+- [Facebook](https://www.facebook.com/quan.nguyenhuu.50364)
 - [Youtube](https://www.youtube.com/@ikkun4029)
