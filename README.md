@@ -1,6 +1,9 @@
- <img align="right" src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" width="250"> 
+<a href="https://www.facebook.com/lkkunnn" target="_blank">
+  <img align="right" src="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/556113127_1317075543454079_1975883771296065457_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3jHqGWGuKDgQ7kNvwFfINjI&_nc_oc=AdldFc9TZ140ms6IewuzS-4uBwW1NBlFuGaO5sX8lstysDKBTDyzolpDAt6ZfGR6jQp9RXhCSb_tg5p9vCvM30AQ&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=WHwMkdYFerFpsjB-FHCOcQ&oh=00_AfixrD1rb8DWbBpr8pJOTVi-4jSKMlR8hM8AGgPROPvRzw&oe=69152509" width="250" />
+</a>
+
 <p align="center">
-  <img src="https://www.hcmue.edu.vn/images/Logo_Banner_SP/Logo-HCMUE---ENG-2.png" width="500" alt="profile counter" />
+  <img src="https://media1.tenor.com/m/i0gwDmSPjTEAAAAC/me-atrapaste-es-cine.gif" alt="profile counter" />
 </p>
 
 ### <img src="https://media.tenor.com/XTiHg-VHtTgAAAAj/phrolova-phralova.gif" width="35"> A little more about me  
