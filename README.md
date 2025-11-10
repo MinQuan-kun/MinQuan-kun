@@ -19,6 +19,17 @@ const info = {
   Hobby&GoodAt: ['Game','Anime','Docker','Flutter','C#'],
   email: 'Mr.fariol2705@gmail.com'
 };
+
+const personalProjects = [
+  {
+    name: "TodoApp",
+    description: "Ứng dụng quản lý công việc có đăng nhập & đồng bộ dữ liệu",
+    technologies: ["React", "Express", "MongoDB"],
+    link: "https://github.com/MinQuan-kun/TodoApp.gitX"
+  },
+
+];
+
 ```
 	  
 ### <p><img src="https://media.tenor.com/iAYfZU8-1lcAAAAj/phrolova-phralova.gif" width="55"> <b>Discord & Spotify</b></p>
@@ -36,4 +47,5 @@ const info = {
   <img src="https://github-readme-stats.vercel.app/api?username=MinQuan-kun&show_icons=true&theme=dark" alt="GitHub Stats" width="320" /> &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinQuan-kun&layout=compact&theme=dark" alt="Languages" width="320" />
 </p>
+
 
