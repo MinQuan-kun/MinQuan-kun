@@ -25,7 +25,7 @@ const personalProjects = [
     name: "TodoApp",
     description: "Ứng dụng quản lý công việc có đăng nhập & đồng bộ dữ liệu",
     technologies: ["React", "Express", "MongoDB", "Docker"],
-    link: "https://github.com/MinQuan-kun/TodoApp.gitX"
+    link: "https://github.com/MinQuan-kun/TodoApp.git"
   },
 
 ];
