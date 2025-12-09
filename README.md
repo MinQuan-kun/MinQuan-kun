@@ -43,9 +43,7 @@ const personalProjects = [
 
 ### <p><img src="https://media.tenor.com/4jm2b2AXWPgAAAAi/phrolova-phralova.gif" width="50"> <b>Github Stats</b></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinQuan-kun&show_icons=true&theme=dark" alt="GitHub Stats" width="320" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinQuan-kun&layout=compact&theme=dark" alt="Languages" width="320" />
-</p>
-
-
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MinQuan-kun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MinQuan-kun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="Languages" />
+</div>
