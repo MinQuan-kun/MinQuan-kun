@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/lkkunnn" target="_blank">
-  <img align="right" src="https://tenor.com/ou36Kq9C0G0.gif" width="250" />
+  <img align="right" src="https://media.tenor.com/jwFIA8V1_7MAAAA1/mambo-ume-usume.webp" width="250" />
 </a>
 
 <p align="center">
