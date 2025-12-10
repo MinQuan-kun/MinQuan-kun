@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/lkkunnn" target="_blank">
-  <img align="right" src="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/556113127_1317075543454079_1975883771296065457_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3jHqGWGuKDgQ7kNvwFfINjI&_nc_oc=AdldFc9TZ140ms6IewuzS-4uBwW1NBlFuGaO5sX8lstysDKBTDyzolpDAt6ZfGR6jQp9RXhCSb_tg5p9vCvM30AQ&_nc_zt=23&_nc_ht=scontent-hkg1-2.xx&_nc_gid=WHwMkdYFerFpsjB-FHCOcQ&oh=00_AfixrD1rb8DWbBpr8pJOTVi-4jSKMlR8hM8AGgPROPvRzw&oe=69152509" width="250" />
+  <img align="right" src="https://tenor.com/ou36Kq9C0G0.gif" width="250" />
 </a>
 
 <p align="center">
