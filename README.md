@@ -27,7 +27,12 @@ const personalProjects = [
     technologies: ["React", "Express", "MongoDB", "Docker"],
     link: "https://github.com/MinQuan-kun/TodoApp.git"
   },
-
+{
+    name: "OOP-System",
+    description: "Hệ thống tra cứu kiến thức Lập trình hướng đối tượng",
+    technologies: ["React", "Nextjs", "Express", "MongoDB", "Docker",],
+    link: "https://github.com/MinQuan-kun/OOP-LOOKUP-SYSTEM.git"
+  },
 ];
 
 ```
