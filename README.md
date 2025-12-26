@@ -33,6 +33,29 @@ const personalProjects = [
     technologies: ["React", "Nextjs", "Express", "MongoDB", "Docker",],
     link: "https://github.com/MinQuan-kun/OOP-LOOKUP-SYSTEM.git"
   },
+{
+  name: "Ciname Galyxa",
+  description: "Hệ thống đặt vé xem phim trực tuyến",
+    technologies: [
+    // Frontend
+    "Next.js 14 (App Router)", 
+    "React.js", 
+    "Tailwind CSS", 
+    "Axios", 
+    "React Toastify",
+    // Backend
+    "Node.js", 
+    "Express.js", 
+    "MongoDB & Mongoose", 
+    "JWT (Authentication)", 
+    "Bcryptjs",
+    // Cloud & Utilities
+    "Cloudinary (Image Storage)",
+    "Multer"
+  ],
+  link: "https://github.com/MinQuan-kun/Ciname_Galyxa.git",
+  demo: "https://ciname-galyxa.onrender.com" 
+}
 ];
 
 ```
